@@ -1,5 +1,5 @@
 # Desktop_Notification
-Hey,
+Desktop Notification
 This is a Desktop Notification Application coded in Python on Jupyter Notebook.
 It is basically a Desktop Notification program to give a alert remainder as a Notification.
 It is developed using Tkinter Module.
